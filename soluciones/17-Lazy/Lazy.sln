@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lazy", "Lazy\Lazy.csproj", "{DD1D47DA-6049-4A13-AED9-259FBDF04903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1D47DA-6049-4A13-AED9-259FBDF04903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1D47DA-6049-4A13-AED9-259FBDF04903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1D47DA-6049-4A13-AED9-259FBDF04903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1D47DA-6049-4A13-AED9-259FBDF04903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
