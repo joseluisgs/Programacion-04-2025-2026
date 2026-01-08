@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net10.0</TargetFramework>
+        <RootNamespace>_18_MineralesMatriz</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        Envío gratis
+        <LangVersion>14</LangVersion>
+    </PropertyGroup>
+
+</Project>
